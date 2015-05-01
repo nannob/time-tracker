@@ -11,8 +11,8 @@ bower install angular angular-bootstrap angular-resource bootstrap moment datamc
 Open `scripts/app.js` and edit:
 
 ```
-		.constant('DATAMCFLY_CONFIG',{API_KEY:'your key goes here', DB_NAME:'your app name goes here'})
-``
+.constant('DATAMCFLY_CONFIG',{API_KEY:'your key goes here', DB_NAME:'your app name goes here'})
+```
 
 To point to your Data McFly API Key and Your App name.
 
